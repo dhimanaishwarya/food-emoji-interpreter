@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+input {
+  border-radius: 12%;
+  width: 80%;
+  padding: 1rem;
+  /* cursor: auto; */
+}
+
+h1,
+h3 {
+  color: maroon;
+  padding: 1rem;
+}
